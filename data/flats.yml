@@ -1,0 +1,22 @@
+# data/flats.yml
+ssaunier:
+  name: "Sebastien's home"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+madame_rigolote:
+  name: "Barbara'Home"
+  description: Nice flat in Gironde
+  city_name: "Bordeaux, France"
+  city_slug: "bordeaux"
+  wifi: true
+  rating: 4
+papillard:
+  name: "Boris' home"
+  description: Small flat in Tokyo
+  city_name: "Tokyo, Japan"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 3
